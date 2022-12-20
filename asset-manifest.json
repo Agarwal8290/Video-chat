@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Video-chat/static/css/main.7e0f677f.css",
-    "main.js": "/Video-chat/static/js/main.6e96826d.js",
-    "static/media/image.jpg": "/Video-chat/static/media/image.95fa64ed2a09672abd07.jpg",
-    "index.html": "/Video-chat/index.html",
-    "main.7e0f677f.css.map": "/Video-chat/static/css/main.7e0f677f.css.map",
-    "main.6e96826d.js.map": "/Video-chat/static/js/main.6e96826d.js.map"
+    "main.css": "/video-chat/static/css/main.7e0f677f.css",
+    "main.js": "/video-chat/static/js/main.d38804f0.js",
+    "static/media/image.jpg": "/video-chat/static/media/image.95fa64ed2a09672abd07.jpg",
+    "index.html": "/video-chat/index.html",
+    "main.7e0f677f.css.map": "/video-chat/static/css/main.7e0f677f.css.map",
+    "main.d38804f0.js.map": "/video-chat/static/js/main.d38804f0.js.map"
   },
   "entrypoints": [
     "static/css/main.7e0f677f.css",
-    "static/js/main.6e96826d.js"
+    "static/js/main.d38804f0.js"
   ]
 }
